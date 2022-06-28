@@ -2,10 +2,10 @@
 // if condition
 let js = 'phenomenal';
 if (js === 'phenomenal')
-    //   (alert("JS is awesome"));
+    (alert("JS is awesome"));
 
-    // basic calculator
-    console.log(10 + 12 + 12 + 234 + 123);
+// basic calculator
+console.log(10 + 12 + 12 + 234 + 123);
 
 //value and variables...
 let firstName = 'saxam'; //firstName is a variable
